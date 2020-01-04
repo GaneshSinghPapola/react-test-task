@@ -7,6 +7,7 @@
   "private": true,
   "dependencies": {
     "eslint-loader": "^2.1.1",
+    "gh-pages": "^2.1.1",
     "moment": "^2.24.0",
     "react": "next",
     "react-calendar": "^2.19.2",
@@ -26,9 +27,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
-  "homepage":"https://ganeshsinghpapola.github.io/react-test-task",
+  "homepage": "https://ganeshsinghpapola.github.io/react-saga-test-task",
   "eslintConfig": {
     "extends": "react-app"
   },
