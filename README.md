@@ -2,7 +2,7 @@ A test task project for classes data wither filter;
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## [Go To Site] (https://ganeshsinghpapola.github.io/react-saga-test-task) 
+## Go To Site (https://ganeshsinghpapola.github.io/react-test-task) 
 ## Available Scripts
 
 In the project directory, you can run:
