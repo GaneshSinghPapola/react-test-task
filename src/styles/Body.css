@@ -1,5 +1,45 @@
 .home {
   margin-left: 350px;
-  margin-top: 0;
-  padding-top: 30px;
+  height: 1000px;
+  overflow: scroll;
+}
+p{
+  margin:0;
+}
+.instructor-name{
+  font-size: 20px;
+  color: #545454;
+
+}
+.date-time{
+  display: flex;
+}
+.date-time p {
+  padding: 7px 15px;
+  margin: 0px;
+  font-weight: 800;
+}
+.date-time p:not(:first-child){
+  border-left:1px solid #000;
+}
+.action-view p{
+  font-weight: 800;
+  font-size: 17px;
+}
+.action-view p span{
+  font-weight: 100;
+  padding-right: 10px;
+  font-size: 13px;
+}
+.class-thumb {
+  width: 122px;
+  height: 126px;
+}
+.card-right {
+  padding: 0 0 0 10px;
+  display: flex;
+}
+.class-detail{
+  display: flex;
+  padding: 0 0 0 10px;
 }

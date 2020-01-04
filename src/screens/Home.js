@@ -6,7 +6,7 @@ import {SideBar, Body} from '../screens';
 
 export const Home = props => {
     return (
-      <div style={{flexDirection:"row" }}>
+      <div >
         <SideBar />
         <Body />
       </div>

@@ -2,6 +2,7 @@
   .chip-label {
     font-size:18px;
     color: #c6305a;
+    padding:10px 0 10px 0 ;
   }
  .chip-ul {
     padding: 0px 10px 0 10px;
@@ -25,11 +26,17 @@
     padding: 2px 20px 0 20px;
   }
   .chip-li .inner-li{
-    position: 'relative';
+    cursor: pointer;
     left:-10px
   }
   .chip-li .chip-name {
     position: 'relative';
     padding: 0;
      left: '-15px';
+  }
+  .Line-65 {
+    width: 261px;
+    height: 2px;
+    object-fit: contain;
+    background-image: radial-gradient(circle at 0 0, rgba(41, 41, 41, 0), #a2a2a2, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0));
   }
