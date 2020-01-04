@@ -21,8 +21,8 @@ export default props => {
       <div className="row" />
       <p className="chip-label">{label}</p>
       <ul className="chip-ul " >
-        {array.length > 0 && array.map( seperator => (
-          <li className={`${selects.indexOf(seperator)>-1?"chip-li chip-li-selected" : "chip-li"}`}>
+        {array.length > 0 && array.map( (seperator,i) => (
+          <li key={`${i} - ${seperator}`} className={`${selects.indexOf(seperator)>-1?"chip-li chip-li-selected" : "chip-li"}`}>
             <ul className="inner-ul ">
               <li className="inner-li" onClick={() => onLabelClick(seperator)} key={seperator}>
                 <span className="chip-name">{seperator}</span>
