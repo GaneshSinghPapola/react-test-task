@@ -9,7 +9,7 @@ export default class App extends Component {
 
   render() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename={"https://ganeshsinghpapola.github.io/react-test-task"}>
           <Switch>
             <Route path="/" component={Home} />
           </Switch>

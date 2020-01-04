@@ -31,7 +31,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://ganeshsinghpapola.github.io/react-saga-test-task",
+  "homepage": "https://ganeshsinghpapola.github.io/react-saga-test-task,",
   "eslintConfig": {
     "extends": "react-app"
   },
