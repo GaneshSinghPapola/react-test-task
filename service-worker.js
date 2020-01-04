@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-saga-test-task/precache-manifest.bbee7545737570cbe598658f29f51ab2.js"
+  "/react-saga-test-task,/precache-manifest.43360663ec231f581b2f991bffad3906.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-saga-test-task/index.html", {
+workbox.routing.registerNavigationRoute("/react-saga-test-task,/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
