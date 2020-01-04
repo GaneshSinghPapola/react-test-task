@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/react-saga-test-task/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "93a7f5d9d197e60f8527",
+    "revision": "995fb93e5f40ffc32cb3",
     "url": "/react-saga-test-task/static/css/main.41d6f9ff.chunk.css"
   },
   {
@@ -24,28 +24,28 @@ self.__precacheManifest = [
     "url": "/react-saga-test-task/static/media/dummy.46638331.jpg"
   },
   {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/react-saga-test-task/static/media/outline-icons.cd6c777f.woff2"
-  },
-  {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/react-saga-test-task/static/media/outline-icons.ef60a4f6.woff"
   },
   {
-    "revision": "701ae6abd4719e9c2ada3535a497b341",
-    "url": "/react-saga-test-task/static/media/outline-icons.701ae6ab.eot"
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/react-saga-test-task/static/media/outline-icons.cd6c777f.woff2"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
     "url": "/react-saga-test-task/static/media/flags.9c74e172.png"
   },
   {
+    "revision": "701ae6abd4719e9c2ada3535a497b341",
+    "url": "/react-saga-test-task/static/media/outline-icons.701ae6ab.eot"
+  },
+  {
     "revision": "ad97afd3337e8cda302d10ff5a4026b8",
     "url": "/react-saga-test-task/static/media/outline-icons.ad97afd3.ttf"
   },
   {
-    "revision": "93a7f5d9d197e60f8527",
-    "url": "/react-saga-test-task/static/js/main.93a7f5d9.chunk.js"
+    "revision": "995fb93e5f40ffc32cb3",
+    "url": "/react-saga-test-task/static/js/main.995fb93e.chunk.js"
   },
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
@@ -64,16 +64,16 @@ self.__precacheManifest = [
     "url": "/react-saga-test-task/static/media/icons.b87b9ba5.ttf"
   },
   {
+    "revision": "13db00b7a34fee4d819ab7f9838cc428",
+    "url": "/react-saga-test-task/static/media/brand-icons.13db00b7.eot"
+  },
+  {
     "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
     "url": "/react-saga-test-task/static/media/icons.8e3c7f55.eot"
   },
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
     "url": "/react-saga-test-task/static/media/brand-icons.c5ebe0b3.ttf"
-  },
-  {
-    "revision": "13db00b7a34fee4d819ab7f9838cc428",
-    "url": "/react-saga-test-task/static/media/brand-icons.13db00b7.eot"
   },
   {
     "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/react-saga-test-task/static/css/1.4bcd2a7e.chunk.css"
   },
   {
-    "revision": "cd5e9b41b6f3c34fcde9f8d9c2b9515f",
+    "revision": "bfc10f6334da3a987db722e04d8ae4cf",
     "url": "/react-saga-test-task/index.html"
   }
 ];
